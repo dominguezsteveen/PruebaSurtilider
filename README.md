@@ -78,4 +78,5 @@ VITE_PUSHER_APP_CLUSTER="${PUSHER_APP_CLUSTER}"
 - Se debe correr el comando php artisan migrate:fresh --seed
 - Esto con el objetivo de que laravel cree automaticamente las tablas y sus relaciones
 
-# Listo
+# Correr server
+- Ejecutar el comando php artisan serve
