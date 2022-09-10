@@ -80,3 +80,12 @@ VITE_PUSHER_APP_CLUSTER="${PUSHER_APP_CLUSTER}"
 
 # Correr server
 - Ejecutar el comando php artisan serve
+
+# Diagrama Modelo Entidad Relación
+- El primero es el que se creo como base y guia para el modelamiento de la base de datos:
+![Bases de datos modelo](https://user-images.githubusercontent.com/112125607/189478644-3b4aa105-ddd0-442b-936d-2113ba4c7c6a.jpeg)
+
+- El segundo es el generado automaticamente por laravel y la visualización viene por parte de Workbench de MySQL
+![Modelo Entidad Relación](https://user-images.githubusercontent.com/112125607/189478702-ccaf0eb5-9893-4fb3-89e2-ff4d53d61a36.png)
+
+
